@@ -5,6 +5,8 @@
 #### Gestalterisch
 * Videos können nicht automatisch auf neuen Seiten geöffnet werden
 * Es kann nich wirklich Css oder andere Stylsheets integriert werden
+* Es kann nicht wirklich mit Farben gearbeitet werden
+* gibt keine Flags
 
 #### Handhabung
 * Handhabung von github für Leute aus der sozialen Arbeit könnte umständlich sein
